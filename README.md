@@ -2,7 +2,9 @@ This project is used to create a project template for Common Code React apps. It
 
 # Quick Start
 ```
-git clone create-cc-react-app
+git clone [/](/)
+cd create-cc-react-app
+yarn install
 node create-cc-react-app my-awesome-react-app
 cd my-awesome-react-app
 yarn start
